@@ -1,0 +1,233 @@
+---
+title: "CICERON 120 PAX - MADRID/BARCELONA"
+author: "Malin Berggren Lundell"
+date: 'January 2020'
+output:
+ 
+  html_document:
+    css: FORMATO.css
+    highlight: textmate
+    theme: cosmo
+    toc: yes
+    toc_float: yes
+---
+
+<script> 
+    $(document).ready(function() { 
+    $head = $('#header'); 
+    $head.prepend('<A href = https://www.cuttingedge-events.com><img src ="LOGO.png" width="150" vspace="50" align="right"></A>') 
+    }); 
+</script> 
+
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE, message=FALSE, warning=FALSE)
+```
+
+
+```{r libraries}
+library(readxl)
+library(dplyr)
+library(knitr)
+library(timevis)
+
+```
+
+
+# **BARCELONA**
+
+## **Parador Cardona**
+
+With a magical setting inside a 9th-century castle and boasting a 2nd-century tower, this Parador is straight out of fairytale and has panoramic views over the Catalonian countryside.
+
+Interiors are faithful to the Cardona's history with Medieval styling complementing the castles vaulted ceilings, stone walls and gorgeous courtyards.
+
+Dine in the Cardona's Medieval dining room which is fit for a king. Enjoy regional specialities which source the freshest local produce for an authentic taste of Catalonia.
+
+Bedrooms have charming canopy beds and gothic features . Furnishings are inspired from the Catalan Medieval period and are highlighted by theatrical lighting and rich fabrics.
+
+  * The hotel has 54 rooms. They have different sizes so we can have them in double or triple occupation.
+  * It is located 100km from Barcelona Airport
+
+
+
+<img src = "https://q-cf.bstatic.com/images/hotel/max1024x768/744/7440861.jpg">
+
+<img src = "https://r-cf.bstatic.com/images/hotel/max1024x768/208/20880946.jpg">
+
+<img src = "https://q-cf.bstatic.com/images/hotel/max1024x768/743/7437794.jpg">
+
+<img src = "https://r-cf.bstatic.com/images/hotel/max1024x768/253/25318881.jpg">
+
+<br>
+<br>
+
+## **Hostal Ampuries**
+
+Hostal Empúries 4* is set in a restored building overlooking the Mediterranean from a secluded beach. It is located nearby Empuries Archeological Site and is a 5-minute drive from L’Escala, on the Costa Brava.
+
+The charming rooms at Hostal Empúries all come with a work desk and include en suite bathrooms. 
+
+  * The hotel has 53 rooms. They have different sizes the most of them would be double/twin but some of them can be triple or cuadruple
+  * It has the LEED certificate (Lidership Europe Enviromental Design)
+  * It has a meeting room with a capacity for 140pax
+  * It is located 166km from Barcelona Airport 
+  
+<img src = "https://r-cf.bstatic.com/images/hotel/max1024x768/501/50149706.jpg">  
+
+<img src = "https://r-cf.bstatic.com/images/hotel/max1024x768/154/154295315.jpg">
+
+<img src = "https://q-cf.bstatic.com/images/hotel/max1024x768/775/77515504.jpg">
+
+<img src = "https://q-cf.bstatic.com/images/hotel/max1024x768/181/18161205.jpg">
+
+<img src = "https://q-cf.bstatic.com/images/hotel/max1024x768/154/154301268.jpg">
+
+
+<br>
+<br>
+
+## **Hotel Món Sant Benet**
+
+
+Hotel Món Sant Benet has modern facilities in the Medieval Monastery of Sant Benet de Bages. 
+
+All rooms include a private terrace with views of the monastery and the Sant Llorenç del Munt i l'Obac Natural Park. They include a private bathroom with a bath and shower, air conditioning, heating, a flat-screen TV, and a minibar. All reservations include a visit to the Monastery, reservation in advance is needed.
+
+Hotel Món Sant Benet has 3 restaurants, among which stands out the L'Ó, awarded a Michelin Star, offering creative and healthy versions of traditional cuisine.
+
+  * The hotel has 87 rooms. 
+  * It is located 70km from Barcelona Airport
+  * It has a small conference centre, the plenary room will have capacity for the group in theater style.
+
+<img src = "https://r-cf.bstatic.com/images/hotel/max1024x768/207/207301236.jpg">  
+
+<img src = "https://q-cf.bstatic.com/images/hotel/max1024x768/439/43939283.jpg">
+
+<img src = "https://r-cf.bstatic.com/images/hotel/max1024x768/706/7063303.jpg">
+
+<img src = "https://r-cf.bstatic.com/images/hotel/max1024x768/439/43939225.jpg">
+
+<br>
+<br>
+
+## **Hotel Peralada**
+
+
+Hotel Peralada Wine Spa and Golf has rooms with views over the resort golf course.  The hotel also offers an outdoor seasonal pool.
+
+Rooms at the Peralada are modern and feature bright décor. All rooms have free Wi-Fi access.
+
+A range of treatments and massages are available in the Peralada’s wine spa.
+
+The Olivera restaurant features a terrace and serves Mediterranean cuisine. 
+
+  * The hotel has 56 rooms. They have different sizes so we can have them in double or triple occupation.
+  * It is located 165km from Barcelona Airport
+
+
+<img src = "https://q-cf.bstatic.com/images/hotel/max1024x768/828/82851863.jpg">  
+
+<img src = "https://q-cf.bstatic.com/images/hotel/max1024x768/778/77821974.jpg">
+
+<img src = "https://r-cf.bstatic.com/images/hotel/max1024x768/778/77822338.jpg">
+
+<img src = "https://q-cf.bstatic.com/images/hotel/max1024x768/778/77822443.jpg">
+
+<img src = "https://q-cf.bstatic.com/images/hotel/max1024x768/778/77822484.jpg">
+
+
+<br>
+<br>
+
+# **MADRID**
+
+## **Parador de Toledo**
+
+Enjoying a stunning location in Cerro del Emperador, 4 km from the centre of Toledo, this Parador hotel is housed in an impressive old building and boasts magnificent views of the city.
+
+From here, you can marvel at the views of the historical centre of Toledo, including its famous cathedral.
+
+Parador de Turismo de Toledo combines Mudejar-style decor with contemporary touches. All rooms offer pool views. They are spacious and enjoy lots of natural light.
+
+  * The hotel has 79 rooms. 
+  * It is located 88km from Madrid Airport
+
+<img src = "https://q-cf.bstatic.com/images/hotel/max1024x768/158/158474166.jpg">  
+
+<img src = "https://r-cf.bstatic.com/images/hotel/max1024x768/158/158484876.jpg">
+
+<img src = "https://q-cf.bstatic.com/images/hotel/max1024x768/158/158488297.jpg">
+
+<img src = "https://r-cf.bstatic.com/images/hotel/max1024x768/158/158477722.jpg">
+
+<img src = "https://q-cf.bstatic.com/images/hotel/max1024x768/158/158477599.jpg">
+
+
+<br>
+<br>
+
+## **AC Ciudad de Toledo**
+
+This hotel is set in Los Cigarrales, one of the most beautiful and emblematic areas of Toledo. It is situated next to the River Tajo and 5 minutes’ drive from the historic centre via public transport next to the hotel.
+
+A former ceramic factory, the 4-star AC Hotel Ciudad de Toledo has been carefully renovated to respect the architectural surroundings and offers spectacular views of the city.
+
+The hotel has extensive facilities including free WiFi throughout, as well as a gym and Turkish Bath to help you take care of body and mind.
+
+  * The hotel has 49 rooms. So, 22 of the rooms must be triple use to fit the whole group.
+  * It is located 80km from Madrid Airport
+  
+<img src = "https://q-cf.bstatic.com/images/hotel/max1024x768/497/49716737.jpg">  
+
+<img src = "https://r-cf.bstatic.com/images/hotel/max1024x768/497/49716726.jpg">
+
+<img src = "https://r-cf.bstatic.com/images/hotel/max1024x768/497/49716085.jpg"> 
+
+<img src = "https://q-cf.bstatic.com/images/hotel/max1024x768/497/49717034.jpg"> 
+
+<img src = "https://q-cf.bstatic.com/images/hotel/max1024x768/497/49716899.jpg"> 
+
+
+
+*****
+
+
+# **Amaze your clients!!**
+
+<div class="client_offer">
+
+<p>Didn't you just love our presentation ? Our first goal here at _**Cutting Edge Events**_ is to help you **win** this business. You will most likely now collate the information contained in this website and make your own presentation
+to show your client<br>
+
+<p>Why not leverage our technology, and present your client with the same format ? As a **totally free service**, we offer you the possibility of doing the work for you</p>
+
+<p> We will: 
+  <ul>
+    * Follow your instructions to add anything you want to be in your presentation, and delete anything that you don't consider relevant
+    * Include your logo and company details, and remove all our company details
+    * We can even change some colors to mimic your corporate identity
+    * We will send you the new link, and it will look as if it was your work
+  </ul>
+</p>
+</div>
+
+<style>
+
+.client_offer{
+background-color: #ee7600;
+color: white;
+padding: 10px;
+border: 1px solid black;
+margin-left: 5px;
+border-radius: 5px;
+font-style: italic;
+}
+</style>
+
+
+
+
+
+
