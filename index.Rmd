@@ -1,5 +1,5 @@
 ---
-title: "CICERON 120 PAX - MADRID/BARCELONA"
+title: "CICERON 120 PAX - BARCELONA"
 author: "Malin Berggren Lundell"
 date: 'January 2020'
 output:
@@ -35,9 +35,12 @@ library(timevis)
 ```
 
 
-# **BARCELONA**
 
-## **Parador Cardona**
+
+# **Parador Cardona**
+
+
+**From 28th/29th to 31st January**
 
 With a magical setting inside a 9th-century castle and boasting a 2nd-century tower, this Parador is straight out of fairytale and has panoramic views over the Catalonian countryside.
 
@@ -47,7 +50,7 @@ Dine in the Cardona's Medieval dining room which is fit for a king. Enjoy region
 
 Bedrooms have charming canopy beds and gothic features . Furnishings are inspired from the Catalan Medieval period and are highlighted by theatrical lighting and rich fabrics.
 
-  * The hotel has 54 rooms. They have different sizes so we can have them in double or triple occupation.
+  * The hotel has 54 rooms. 
   * It is located 100km from Barcelona Airport
 
 
@@ -56,39 +59,68 @@ Bedrooms have charming canopy beds and gothic features . Furnishings are inspire
 
 <img src = "https://r-cf.bstatic.com/images/hotel/max1024x768/208/20880946.jpg">
 
-<img src = "https://q-cf.bstatic.com/images/hotel/max1024x768/743/7437794.jpg">
+<img src = "https://x.cdrst.com/foto/hotel-sf/59f0/granderesp/parador-de-cardona-general-862a4df.jpg">
 
 <img src = "https://r-cf.bstatic.com/images/hotel/max1024x768/253/25318881.jpg">
 
 <br>
 <br>
 
-## **Hostal Ampuries**
+## Meeting Facilities 
 
-Hostal Empúries 4* is set in a restored building overlooking the Mediterranean from a secluded beach. It is located nearby Empuries Archeological Site and is a 5-minute drive from L’Escala, on the Costa Brava.
 
-The charming rooms at Hostal Empúries all come with a work desk and include en suite bathrooms. 
+Parador de Cardona has 3 meeting rooms as you can see:
 
-  * The hotel has 53 rooms. They have different sizes the most of them would be double/twin but some of them can be triple or cuadruple
-  * It has the LEED certificate (Lidership Europe Enviromental Design)
-  * It has a meeting room with a capacity for 140pax
-  * It is located 166km from Barcelona Airport 
-  
-<img src = "https://r-cf.bstatic.com/images/hotel/max1024x768/501/50149706.jpg">  
+<img src = "CARDONA/meetings1.jpg">
+<img src = "CARDONA/meetings2.jpg">
+<img src = "CARDONA/meetings3.jpg">
 
-<img src = "https://r-cf.bstatic.com/images/hotel/max1024x768/154/154295315.jpg">
+If it could be possible to split the group between 2 meeting rooms we could use Castell +Ducal in theater style.
 
-<img src = "https://q-cf.bstatic.com/images/hotel/max1024x768/775/77515504.jpg">
+If the group needs to be together for the meeting we could use the dinning room, but we would need to use the same setup for the meeting and for the meals.
 
-<img src = "https://q-cf.bstatic.com/images/hotel/max1024x768/181/18161205.jpg">
+<img src = "CARDONA/restaurante.jpg">
 
-<img src = "https://q-cf.bstatic.com/images/hotel/max1024x768/154/154301268.jpg">
+<br>
 
+## Budget
+
+<div class="budget">
+
+<p> Group Package: Including accommodation based in double and triple rooms, Meeting rooms, AV, one coffee break, lunch including drinks and breakfast 
+  <ul>
+   Rates per person (for a minimum of 120pax): 150€ per night VAT inc
+   
+   Touristic tax: 1€ VAT inc per person and night
+  </ul>
+</p>
+
+</div>
+
+<style>
+
+.budget{
+background-color: #607D8B;
+color: white;
+padding: 10px;
+border: 1px solid black;
+margin-left: 5px;
+border-radius: 5px;
+font-style: italic;
+}
+</style>
+
+<br>
+
+*We are still waiting for the full board rates and for the Cardona auditorium answer to have a meeting venue option*
 
 <br>
 <br>
 
-## **Hotel Món Sant Benet**
+
+# **Hotel Món Sant Benet**
+
+**Dates: from 13th to 17th January**
 
 
 Hotel Món Sant Benet has modern facilities in the Medieval Monastery of Sant Benet de Bages. 
@@ -109,10 +141,95 @@ Hotel Món Sant Benet has 3 restaurants, among which stands out the L'Ó, awarde
 
 <img src = "https://r-cf.bstatic.com/images/hotel/max1024x768/439/43939225.jpg">
 
+
+## Meeting Facilities
+
+Gran Montserrat Meeting room with natural daylight.
+
+<img src = "MON SANT BENET/MEETING.jpg"> 
+
+
+## Dinning space
+
+La Fabrica room - the group can have their lunches and dinners in this room in exclusive
+
+
+<img src = "MON SANT BENET/LUNCH.jpg"> 
+
+For the last evening, We can find in the hotel a very special restaurant: l'Ó, it is a one star Michelin restaurant that offers a mix of traditional and modern cuisine ealborated with fresh, seasonal ingredients.
+
+<img src = "MON SANT BENET/O.jpg"> 
+
+
+
+
+## Budget
+
+<div class="budget">
+
+<p> Accommodation: 
+  <ul>
+    Double room for single use, breakfast included: 120€ VAT inc per night 
+    
+  Double room, breakfast included: 140€ VAT inc per night
+    
+  Touristic tax: 1€ VAT inc per person and night
+  </ul>
+</p>
+
+<p> Meeting Facilities: 
+  <ul>
+  Gran Montserrat meeting room from 9.00h to 19.00h: 1500€ VAT inc
+  
+  Coffee break from: 12€ VAT inc
+  
+  Screen rental (4x2,5m)+ projector 8000 lumens: 530€ VAT inc
+  
+  Sound system: 250€ VAT inc
+  
+  Flipchart: 35€ VAT inc
+  </ul>
+</p>
+
+<p> F&B: 
+  <ul>
+  Lunch or Dinner in La Fabrica room, 3 courses menu including non alcoholic drinks, from: 37,50€ VAT inc
+  
+  Lunch or dinner in La Fabrica room, buffet lunch including non alcoholic drinks, from 49€ VAT inc
+  
+  Restaurant Ó- tasting menu including drinks, from: 81,50€ VAT inc 
+  
+  </ul>
+</p>
+
+</div>
+
+<style>
+
+.budget{
+background-color: #607D8B;
+color: white;
+padding: 10px;
+border: 1px solid black;
+margin-left: 5px;
+border-radius: 5px;
+font-style: italic;
+}
+</style>
+
+<br>
+
+*The accomodation rates are valid only if three nights are booked*
+
+<br>
+
 <br>
 <br>
 
-## **Hotel Peralada**
+
+# **Hotel Peralada** 
+
+**From 29th to 31st January**
 
 
 Hotel Peralada Wine Spa and Golf has rooms with views over the resort golf course.  The hotel also offers an outdoor seasonal pool.
@@ -123,7 +240,19 @@ A range of treatments and massages are available in the Peralada’s wine spa.
 
 The Olivera restaurant features a terrace and serves Mediterranean cuisine. 
 
-  * The hotel has 56 rooms. They have different sizes so we can have them in double or triple occupation.
+  * The hotel has 64 rooms. 
+  
+  We will have:
+  
+  49 twin rooms (98pax)
+  
+  8 bedrooms with king size + extra bed (16 pax)
+  
+  6 Double room for single use (king size bed)(6 pax)
+  
+  
+  *It is one room already booked by an individual*
+  
   * It is located 165km from Barcelona Airport
 
 
@@ -138,61 +267,105 @@ The Olivera restaurant features a terrace and serves Mediterranean cuisine.
 <img src = "https://q-cf.bstatic.com/images/hotel/max1024x768/778/77822484.jpg">
 
 
-<br>
-<br>
+## Meeting Facilities
 
-# **MADRID**
+Plenary room: **Albera** with natural lighting and a a terrace. 
 
-## **Parador de Toledo**
+It has capacity for 150 pax in theatre style
 
-Enjoying a stunning location in Cerro del Emperador, 4 km from the centre of Toledo, this Parador hotel is housed in an impressive old building and boasts magnificent views of the city.
+It is including basic AV:
+  * Projector
+  * Screen
+  * Sound system
+  * Mineral water
+  * One Hand microphone
+  * One flipchart
+  * Lectern or high table
 
-From here, you can marvel at the views of the historical centre of Toledo, including its famous cathedral.
-
-Parador de Turismo de Toledo combines Mudejar-style decor with contemporary touches. All rooms offer pool views. They are spacious and enjoy lots of natural light.
-
-  * The hotel has 79 rooms. 
-  * It is located 88km from Madrid Airport
-
-<img src = "https://q-cf.bstatic.com/images/hotel/max1024x768/158/158474166.jpg">  
-
-<img src = "https://r-cf.bstatic.com/images/hotel/max1024x768/158/158484876.jpg">
-
-<img src = "https://q-cf.bstatic.com/images/hotel/max1024x768/158/158488297.jpg">
-
-<img src = "https://r-cf.bstatic.com/images/hotel/max1024x768/158/158477722.jpg">
-
-<img src = "https://q-cf.bstatic.com/images/hotel/max1024x768/158/158477599.jpg">
+<img src = "PERELADA/perelada reunio.jpg">
 
 
-<br>
+## Dining spaces
+
+The hotel offers different restaurants and bars but the one that we will suggest for the lunches and the first dinner (29th) is ***Restaurant La Masia**. It has natural lighting and views to the golf course and access to a terrace.
+
+<img src = "PERELADA/masia1.jpg">
+
+<img src = "PERELADA/masia2.jpg">
+
 <br>
 
-## **AC Ciudad de Toledo**
 
-This hotel is set in Los Cigarrales, one of the most beautiful and emblematic areas of Toledo. It is situated next to the River Tajo and 5 minutes’ drive from the historic centre via public transport next to the hotel.
+The 30th evening we propose a farewell dinner at a very special space: **Castell de Perelada**
+specifically at the room **El Pavelló del castell**.
+This beautiful castle is located 1,5km from the hotel and it belongs to the same property, so the hotel will offer free of charge transfer from the hotel to the dinner and back.
 
-A former ceramic factory, the 4-star AC Hotel Ciudad de Toledo has been carefully renovated to respect the architectural surroundings and offers spectacular views of the city.
+The Casino de Perelada is located inside the Castle and the hotel will offer us a free entrance the 30th night after dinner.
 
-The hotel has extensive facilities including free WiFi throughout, as well as a gym and Turkish Bath to help you take care of body and mind.
+<img src = "PERELADA/castell de nit.jpg">
 
-  * The hotel has 49 rooms. So, 22 of the rooms must be triple use to fit the whole group.
-  * It is located 80km from Madrid Airport
-  
-<img src = "https://q-cf.bstatic.com/images/hotel/max1024x768/497/49716737.jpg">  
+The Pavello room has beautiful views to the castle and it is surrounded by the gardens.
 
-<img src = "https://r-cf.bstatic.com/images/hotel/max1024x768/497/49716726.jpg">
+<img src = "PERELADA/sopar castell.jpg">
 
-<img src = "https://r-cf.bstatic.com/images/hotel/max1024x768/497/49716085.jpg"> 
+## Budget
 
-<img src = "https://q-cf.bstatic.com/images/hotel/max1024x768/497/49717034.jpg"> 
+<div class="budget">
 
-<img src = "https://q-cf.bstatic.com/images/hotel/max1024x768/497/49716899.jpg"> 
+<p> Accommodation: 
+  <ul>
+    Double room for single use, breakfast included: 155€ VAT inc per night 
+    
+  Double room, breakfast included: 170€ VAT inc per night
+    
+  Touristic tax: 2,48€ VAT inc per person and night
+  </ul>
+</p>
+
+<p> Meeting Facilities: 
+  <ul>
+    Albera Meeting room - full day rental: 550€ VAT inc (including AV as menitioned)
+
+  </ul>
+</p>
+
+<p> F&B: 
+  <ul>
+    Lunch at the hotel: 3 courses menu, including non alcoholic drinks from: 45€ VAT inc
+    
+  29th Dinner at the hotel:  3 courses menu, including drinks from: 60€ VAT inc
+    
+ 30th Dinner at Castell de Perelada:  3 courses menu, including drinks from: 66€ VAT inc
+
+  </ul>
+</p>
 
 
 
-*****
 
+</div>
+
+<style>
+
+.budget{
+background-color: #607D8B;
+color: white;
+padding: 10px;
+border: 1px solid black;
+margin-left: 5px;
+border-radius: 5px;
+font-style: italic;
+}
+</style>
+
+<br>
+
+*This rates will not include the hotel's exclusivity*
+
+*Optional exclusivity fee: 6500€ VAT inc - including all th services quoted above + the Spa, meeting rooms and both restaurants*
+
+<br>
+<br>
 
 # **Amaze your clients!!**
 
